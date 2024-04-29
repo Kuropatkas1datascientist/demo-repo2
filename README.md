@@ -2,4 +2,4 @@
 
 Some text
 
-Welcome
+Welcome to the jungle!
